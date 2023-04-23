@@ -31,7 +31,7 @@ function Header() {
               <div className='right_text'>
 
                 <img src={Rating}></img>
-                <p>"This course was comprehensive covered everything I needed to know about animation"</p>
+                <p>"This course was comprehensive covered everything I needed to know about animation."</p>
 
                 <div className='reviewer'>
 
